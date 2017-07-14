@@ -7,7 +7,7 @@ ennea8@gmail.com
  
 
 ### 2015.11-2017.5 爱和健康  全栈开发工程师 
-* 基于Meteor＋React＋Redux开发web端和移动端产品
+* 基于Meteor＋React＋Redux开发web端和移动端产品，数据库采用mongodb
 * 开发血压计的压力测试统计程序
 * 进行cordova插件的bug修复
 * 进行一个针对ipad的react native项目的开发
